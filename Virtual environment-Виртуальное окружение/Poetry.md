@@ -1,3 +1,6 @@
+#poetry
+**Poetry** — это инструмент для управления зависимостями и упаковки в Python. Он обеспечивает простой и надежный способ создания, управления и публикации Python-проектов, облегчая работу с виртуальными окружениями и зависимостями.
+
 Установите Poetry, используя pip:
 
 ```
@@ -39,3 +42,7 @@ poetry run python manage.py migrate
 ```
 poetry run python manage.py runserver
 ```
+
+#### Links
+https://python-poetry.org/
+[Poetry — прекрасная альтернатива pip (шпаргалка)](https://habr.com/ru/articles/593529/)
